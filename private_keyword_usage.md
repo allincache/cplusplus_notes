@@ -1,7 +1,10 @@
 **Question**:
+
 Explain the usage of the `private` keyword in C++ with code examples.
 
+
 **Answer**:
+
 In C++, the `private` keyword is an access specifier that determines the accessibility of class members, including data members and member functions. When a class member is declared as `private`, it can only be accessed from within the class itself, specifically through the member functions (including constructors and destructors) of that class. Outside of the class (including other classes), `private` members cannot be accessed directly.
 
 ### Usage of Private Members:
