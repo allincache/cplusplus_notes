@@ -1,7 +1,9 @@
 
 **Question**:
 
-Explain the usage of the `friend` keyword in C++ with code examples.<br />
+Explain the usage of the `friend` keyword in C++ with code examples.
+
+<br />
 
 **Answer**:
 

@@ -1,7 +1,8 @@
 **Question**:
 
-Explain the usage of the `private` keyword in C++ with code examples.<br />
+Explain the usage of the `private` keyword in C++ with code examples.
 
+<br />
 
 **Answer**:
 
