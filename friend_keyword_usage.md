@@ -1,8 +1,10 @@
 
 **Question**:
-Explain the usage of the `friend` keyword in C++ with code examples.
+
+Explain the usage of the `friend` keyword in C++ with code examples.<br />
 
 **Answer**:
+
 In C++, the `friend` keyword is used to declare a class or function as a friend of another class. Friends can access the private and protected members of a class, thus breaking the encapsulation of the class. While `friend` can provide some convenience, overusing it can lead to breaking encapsulation and making the code harder to understand and maintain.
 
 Here are a few examples of how the `friend` keyword is used:
