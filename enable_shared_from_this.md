@@ -39,9 +39,11 @@ A few important points to note:
 
 `std::enable_shared_from_this` is particularly useful when implementing certain design patterns (such as the Observer pattern) or managing object lifetimes in multithreaded environments.
 
+</br>
+
 **Example of the "Subscriber-Publisher" Pattern**
 
-**Using enable_shared_from_this**
+**Using `enable_shared_from_this`**
 
 ```cpp
 #include <iostream>  
@@ -86,7 +88,7 @@ int main() {
 }
 ```
 
-**Without using enable_shared_from_this**
+**Without using `enable_shared_from_this`**
 
 ```cpp
 #include <iostream>    
